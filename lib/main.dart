@@ -17,7 +17,7 @@ class MyApp extends StatefulWidget {
 
 class _MyAppState extends State<MyApp> {
 
-  String personal_access_token = "c8e52b47154cb81698284548822e25d4eee53f79 ";
+  String personal_access_token = "TOKEN_HERE";
 
   @override
   Widget build(BuildContext context) {
